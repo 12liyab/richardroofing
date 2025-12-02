@@ -15,7 +15,7 @@ export default function Home({ onNavigate }: HomeProps) {
       subtitle: 'Quality Metal Roofing Solutions',
     },
     {
-      image: '/portfolio/sheet31.jpg',
+      image: '/portfolio/sheet20.jpg',
       title: 'Expert Roof Maintenance',
       subtitle: 'Durable & Long-lasting Results',
     },
@@ -56,7 +56,7 @@ export default function Home({ onNavigate }: HomeProps) {
     },
     {
       icon: '🪵',
-      title: 'Trusses Installation',
+      title: 'Trusses Installation & Wood Work',
       description: 'Quality wooden and metal trusses for structural support',
     },
   ];
