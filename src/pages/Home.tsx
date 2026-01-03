@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Phone, CheckCircle, Clock, Shield, Users, ArrowRight } from 'lucide-react';
+import { Phone, CheckCircle, Clock, Shield, ArrowRight } from 'lucide-react';
 
 interface HomeProps {
   onNavigate: (page: string) => void;
