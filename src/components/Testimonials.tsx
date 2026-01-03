@@ -4,26 +4,26 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Mr Frimpong',
-      role: 'Homeowner',
+      name: 'JL Properties',
+      role: 'Estate Developer, Accra',
       content:
-        'RICHSAM Roofing Company did an outstanding job on our home. The team was professional, efficient, and the quality of work exceeded our expectations. Our new roof looks amazing and has been performing perfectly through the rainy season.',
+        'We have worked with RICHSAM Roofing Company on several estate projects, and the quality of work has been consistent. They understand large developments, keep to timelines, and deliver neat finishing. We are satisfied with their professionalism and would recommend them.',
       rating: 5,
     },
     {
       id: 2,
-      name: 'Lovia Kissi Korang',
-      role: 'Business Owner',
+      name: 'Eng. Obed',
+      role: 'Building Contractor',
       content:
-        'We needed a reliable roofing company for our commercial building, and RICHSAM delivered beyond our expectations. They completed the project on time and within budget. Highly recommended for commercial projects!',
+        'As a contractor, I value reliability. Their roofing team was easy to work with on site, followed specifications, and completed the work as agreed. The coordination was smooth and the final result me expectations.',
       rating: 5,
     },
     {
       id: 3,
-      name: 'Maxwell Boabeng',
-      role: 'Property Developer',
+      name: 'Mr. Asamoah',
+      role: 'Business Owner',
       content:
-        'I have worked with RICHSAM on multiple projects, and they never disappoint. Their attention to detail and commitment to quality is unmatched. The metal trusses they installed are exceptional.',
+        'They handled the roofing works for my commercial property, and the experience was stress free. Communication was clear, pricing was fair, and the job was completed on time. The roof has been durable and well finised.',
       rating: 5,
     },
   ];
